@@ -1,0 +1,2 @@
+.pilih-kelas{display:flex;align-items:center;background-color:#f6f6f8;padding:6vh 0}.pilih-kelas .card-wrapper{display:grid;grid-template-columns:auto auto auto;grid-gap:1rem}@media only screen and (max-width:800px){.pilih-kelas .card-wrapper{grid-template-columns:auto auto}}@media only screen and (max-width:500px){.pilih-kelas .card-wrapper{grid-template-columns:auto}}
+/*# sourceMappingURL=1.80aad675.chunk.css.map */

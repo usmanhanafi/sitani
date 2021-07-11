@@ -1,0 +1,2 @@
+(this.webpackJsonpsitani=this.webpackJsonpsitani||[]).push([[8],{54:function(n,a,c){},64:function(n,a,c){"use strict";c.r(a);c(0),c(54);var i=c(9),e=c(1);a.default=function(n){var a=n.onClick;return Object(e.jsx)("div",{className:"container",children:Object(e.jsx)("div",{className:"section-saran",children:Object(e.jsxs)("div",{className:"content",children:[Object(e.jsx)("p",{children:"Lalu, bagaimana pendapatmu tentang Sitani?"}),Object(e.jsx)(i.a,{onClick:a,color:"secondary",bgcolor:"bgprimary",children:"Saran"})]})})})}}}]);
+//# sourceMappingURL=8.2c05bc0f.chunk.js.map
